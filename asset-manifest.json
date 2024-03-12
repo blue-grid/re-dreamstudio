@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/re-dreamstudio/static/css/main.f8899756.css",
+    "main.js": "/re-dreamstudio/static/js/main.9d6b7a31.js",
+    "static/js/453.e817e5dc.chunk.js": "/re-dreamstudio/static/js/453.e817e5dc.chunk.js",
+    "index.html": "/re-dreamstudio/index.html",
+    "main.f8899756.css.map": "/re-dreamstudio/static/css/main.f8899756.css.map",
+    "main.9d6b7a31.js.map": "/re-dreamstudio/static/js/main.9d6b7a31.js.map",
+    "453.e817e5dc.chunk.js.map": "/re-dreamstudio/static/js/453.e817e5dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8899756.css",
+    "static/js/main.9d6b7a31.js"
+  ]
+}
