@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/re-dreamstudio/static/css/main.8cf08ead.css",
+    "main.js": "/re-dreamstudio/static/js/main.4f35f5ac.js",
+    "static/js/453.96de3e67.chunk.js": "/re-dreamstudio/static/js/453.96de3e67.chunk.js",
+    "static/media/night.svg": "/re-dreamstudio/static/media/night.2d0a8f6ae6205c0441702b8272349854.svg",
+    "static/media/outdoor.svg": "/re-dreamstudio/static/media/outdoor.2e7da640e6d76b1c524a6a9d97de5d9d.svg",
+    "static/media/noon.svg": "/re-dreamstudio/static/media/noon.874987b17490e618a9f12cc27e733561.svg",
+    "static/media/morning.svg": "/re-dreamstudio/static/media/morning.2a51bde26b5ca5b96d7263885dcc0b53.svg",
+    "static/media/indoor.svg": "/re-dreamstudio/static/media/indoor.e7459c0bd4bc832297226bb7283e3a70.svg",
+    "index.html": "/re-dreamstudio/index.html",
+    "main.8cf08ead.css.map": "/re-dreamstudio/static/css/main.8cf08ead.css.map",
+    "main.4f35f5ac.js.map": "/re-dreamstudio/static/js/main.4f35f5ac.js.map",
+    "453.96de3e67.chunk.js.map": "/re-dreamstudio/static/js/453.96de3e67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cf08ead.css",
+    "static/js/main.4f35f5ac.js"
+  ]
+}
